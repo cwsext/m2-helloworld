@@ -1,5 +1,5 @@
 {
-  "name": "cws/magento2-helloworld",
+  "name": "cwsext/m2-helloworld",
   "description": "N/A",
   "type": "magento2-module",
   "version": "1.0.0",
